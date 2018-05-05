@@ -1,0 +1,18 @@
+{
+    "name": "nodejs-web-app2",
+    "version": "1.0.2",
+    "description": "NodejsWebApp2",
+    "private": true,
+    "main": "server.js",
+    "author": {
+        "name": "Prarthana"
+    },
+    "dependencies": {
+        "express": "latest",
+        "moment": "latest",
+        "yelp-fusion": "^2.0.3"
+    },
+    "scripts": {
+        "start": "node server.js"
+    }
+}
