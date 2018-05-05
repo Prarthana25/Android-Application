@@ -1,6 +1,6 @@
 # Android-Application
 
-Entertainment App implemented using Java Android.
+Travel and Entertainment search App implemented using Java Android.
 
 Tool- Android Studio.
 
