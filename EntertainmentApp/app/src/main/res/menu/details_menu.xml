@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/detail_menu_tweet"
+        android:title="tweet"
+        android:icon="@drawable/tweet_icon"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/detail_menu_fav"
+        android:title="fav"
+        android:icon="@drawable/hear_white_blank"
+        app:showAsAction="always" />
+</menu>
